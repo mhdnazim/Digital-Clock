@@ -23,11 +23,13 @@ body {
     font-size: 40px;
     font-family: "Digital", sans-serif;
     color: #000000;
-    background-color: #5e626d;
+    background-color: #fafbff;
+    border: 1px solid rgb(255, 0, 0);
     padding: 10px;
     border-radius: 10px;
+    height:20vh;
     /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); */
-    animation: blink 7s infinite;
+    /* animation: blink 7s infinite; */
   }
   
   .time {
@@ -37,6 +39,7 @@ body {
   
   span {
     margin: 0 5px;
+    font-size: 76px;
   }
   
   /* ======================== */
